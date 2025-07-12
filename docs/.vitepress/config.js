@@ -12,15 +12,6 @@ export default defineConfig({
       { text: '首页', link: '/' },
     ],
 
-    sidebar: [
-      {
-        text: '日记',
-        items: [
-          { text: '第一篇', link: '/posts/1' },
-        ]
-      }
-    ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/addychang/daily' }
     ]
