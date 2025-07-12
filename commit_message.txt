@@ -1,1 +1,1 @@
-Initial commit: Setup VitePress for diary
+Fix: Resolve ESM loading issue and update gitignore
