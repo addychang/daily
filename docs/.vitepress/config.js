@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/maomao1996/daily' }
+      { icon: 'github', link: 'https://github.com/addychang/daily' }
     ]
   }
 })
